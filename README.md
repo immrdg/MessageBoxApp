@@ -2,7 +2,7 @@
 ### Desineni Gireesh 212218104044
 <br>
 <br>
-<b>Note: Download Zip File And Navigate To QMessageBox Folder and open project file in qt creator</b>
+#### Note: Download Zip File And Navigate To QMessageBox Folder and open project file in qt creator
 <br>
 <br>
 <hr>
